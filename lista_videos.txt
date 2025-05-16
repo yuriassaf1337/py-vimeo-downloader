@@ -1,0 +1,162 @@
+Ferramentas - XT
+>LSP - Básico
+>>1 - https://player.vimeo.com/video/222354226
+>>2 - https://player.vimeo.com/video/222354282
+>>3 - https://player.vimeo.com/video/222354411
+>>4 - https://player.vimeo.com/video/222354947
+>>5 - https://player.vimeo.com/video/776718453
+>>6 - https://player.vimeo.com/video/776714396
+>LSP - Intermediário
+>>1 - https://player.vimeo.com/video/222355094
+>>2 - https://player.vimeo.com/video/222355799
+>>3 - https://player.vimeo.com/video/222356051
+>LSP - Avançado
+>>1 - https://player.vimeo.com/video/222353570
+>>2 - https://player.vimeo.com/video/222354014
+>>3 - https://player.vimeo.com/video/222354129
+>Regras LSP - Controle de Ponto
+>>1 - https://player.vimeo.com/video/509757893
+>>2 - https://player.vimeo.com/video/509750849
+>>3 - https://player.vimeo.com/video/509746740
+>>4 - https://player.vimeo.com/video/509741035
+>>5 - https://player.vimeo.com/video/509729868
+>Regras LSP - Administração de Pessoal
+>>1 - https://player.vimeo.com/video/182847501
+>>2 - https://player.vimeo.com/video/182847786
+>>3 - https://player.vimeo.com/video/182848656
+>>4 - https://player.vimeo.com/video/182848996
+>>5 - https://player.vimeo.com/video/192595335
+>>6 - https://player.vimeo.com/video/182850388
+>>7 - https://player.vimeo.com/video/182850749
+>>8 - https://player.vimeo.com/video/182851425
+>CBDS
+>>1 - https://player.vimeo.com/video/509745943
+>>2 - https://player.vimeo.com/video/509742881
+>>3 - https://player.vimeo.com/video/509741909
+>>4 - https://player.vimeo.com/video/509740761
+>>5 - https://player.vimeo.com/video/509739825
+>>6 - https://player.vimeo.com/video/510645169
+>>7 - https://player.vimeo.com/video/509729127
+>Gerador de Relatórios Gestão de Pessoas - Básico
+>>1 - https://player.vimeo.com/video/167322020
+>>2 - https://player.vimeo.com/video/167323869
+>>3 - https://player.vimeo.com/video/167325628
+>>4 - https://player.vimeo.com/video/167326140
+>>5 - https://player.vimeo.com/video/167326469
+>>6 - https://player.vimeo.com/video/167331912
+>>7 - https://player.vimeo.com/video/167331576
+>Gerador de Relatórios Gestão de Pessoas - Intermediário
+>>1 - https://player.vimeo.com/video/172405150
+>>2 - https://player.vimeo.com/video/172405965
+>>3 - https://player.vimeo.com/video/172406417
+>>4 - https://player.vimeo.com/video/172406691
+>>5 - https://player.vimeo.com/video/172406895
+>>6 - https://player.vimeo.com/video/172407232
+>>7 - https://player.vimeo.com/video/172407576
+>>8 - https://player.vimeo.com/video/172407738
+>>9 - https://player.vimeo.com/video/172408071
+>Gerador de Relatórios Gestão de Pessoas - Avançado
+>>1 - https://player.vimeo.com/video/176639235
+>>2 - https://player.vimeo.com/video/176640301
+>>3 - https://player.vimeo.com/video/176641339
+>>4 - https://player.vimeo.com/video/176641963
+>>5 - https://player.vimeo.com/video/176642462
+>>6 - https://player.vimeo.com/video/176643715
+>>7 - https://player.vimeo.com/video/176645013
+>>8 - https://player.vimeo.com/video/176646048
+>Gerador de Relatórios Gestão Empresarial _ ERP - Básico
+>>1 - https://player.vimeo.com/video/168334010
+>>2 - https://player.vimeo.com/video/168334333
+>>3 - https://player.vimeo.com/video/168334754
+>>4 - https://player.vimeo.com/video/168335040
+>>5 - https://player.vimeo.com/video/168335462
+>>6 - https://player.vimeo.com/video/168335860
+>>7 - https://player.vimeo.com/video/168336152
+>Gerador de Relatórios Gestão Empresarial _ ERP - Intermediário
+>>1 - https://player.vimeo.com/video/172630033
+>>2 - https://player.vimeo.com/video/172630746
+>>3 - https://player.vimeo.com/video/172631212
+>>4 - https://player.vimeo.com/video/172635881
+>>5 - https://player.vimeo.com/video/172636185
+>>6 - https://player.vimeo.com/video/172636341
+>>7 - https://player.vimeo.com/video/172636611
+>>8 - https://player.vimeo.com/video/172637004
+>>9 - https://player.vimeo.com/video/172637299
+>Gerador de Relatorios Gestão Empresarial _ ERP - Avançado
+>>1 - https://player.vimeo.com/video/172783562
+>>2 - https://player.vimeo.com/video/172784289
+>>3 - https://player.vimeo.com/video/172784670
+>>4 - https://player.vimeo.com/video/172785042
+>>5 - https://player.vimeo.com/video/172785257
+>>6 - https://player.vimeo.com/video/172785797
+>>7 - https://player.vimeo.com/video/172786459
+>>8 - https://player.vimeo.com/video/172786619
+>Gerador de Cubos
+>>1 - https://player.vimeo.com/video/471528359
+>>2 - https://player.vimeo.com/video/471529913
+>>3 - https://player.vimeo.com/video/471529907
+>>4 - https://player.vimeo.com/video/471529769
+>>5 - https://player.vimeo.com/video/471534048
+>>6 - https://player.vimeo.com/video/471534172
+>>7 - https://player.vimeo.com/video/471534174
+>>8 - https://player.vimeo.com/video/471537837
+>>9 - https://player.vimeo.com/video/471538178
+>>10 - https://player.vimeo.com/video/471538448
+>>11 - https://player.vimeo.com/video/471538631
+>>12 - https://player.vimeo.com/video/471543735
+>>13 - https://player.vimeo.com/video/471543835
+>>14 - https://player.vimeo.com/video/471545621
+>>15 - https://player.vimeo.com/video/471548951
+>Gerador de Importação e Exportação
+>>1 - https://player.vimeo.com/video/177692019
+>>2 - https://player.vimeo.com/video/177692221
+>>3 - https://player.vimeo.com/video/177692742
+>>4 - https://player.vimeo.com/video/177695923
+>>5 - https://player.vimeo.com/video/177696955
+>>6 - https://player.vimeo.com/video/177699271
+>Gerenciador de Usuários (SGU)
+>>1 - https://player.vimeo.com/video/510824951
+>>2 - https://player.vimeo.com/video/510825230
+>>3 - https://player.vimeo.com/video/510825639
+>>4 - https://player.vimeo.com/video/510825995
+>>5 - https://player.vimeo.com/video/510826355
+>>6 - https://player.vimeo.com/video/510826823
+>Gerador de Telas (SGI)
+>>1 - https://player.vimeo.com/video/177730455
+>>2 - https://player.vimeo.com/video/177731302
+>>3 - https://player.vimeo.com/video/177731548
+>>4 - https://player.vimeo.com/video/177733151
+>>5 - https://player.vimeo.com/video/177734627
+>>6 - https://player.vimeo.com/video/177738706
+>>7 - https://player.vimeo.com/video/177740550
+>>8 - https://player.vimeo.com/video/177741514
+>eDocs - Instalação e Atualização de Versão
+>>1 - https://player.vimeo.com/video/326044684
+>>2 - https://player.vimeo.com/video/326105541
+>Atualização dos Produtos Senior (Tecnologias G5 G6)
+>>1 - https://player.vimeo.com/video/343220713
+>>2 - https://player.vimeo.com/video/343224552
+>>3 - https://player.vimeo.com/video/1048594226
+>>4 - https://player.vimeo.com/video/1048535696
+>>5 - https://player.vimeo.com/video/1048535669
+>>6 - https://player.vimeo.com/video/1048535488
+>>7 - https://player.vimeo.com/video/1048535624
+>>8 - https://player.vimeo.com/video/343625639
+>Instalação dos Produtos Senior (Tecnologias G5 G6)
+>>1 - https://player.vimeo.com/video/350172097
+>>2 - https://player.vimeo.com/video/350174727
+>>3 - https://player.vimeo.com/video/350179933
+>>4 - https://player.vimeo.com/video/350228899
+>>5 - https://player.vimeo.com/video/350315423
+>>6 - https://player.vimeo.com/video/350315423
+>>7 - https://player.vimeo.com/video/350362187
+>Web Service na G5
+>>1 - https://player.vimeo.com/video/243810052
+>>2 - https://player.vimeo.com/video/243810103
+>>3 - https://player.vimeo.com/video/243810129
+>>4 - https://player.vimeo.com/video/243809804
+>>5 - https://player.vimeo.com/video/243809823
+>>6 - https://player.vimeo.com/video/243809861
+>>7 - https://player.vimeo.com/video/243809908
+>Processos Automáticos (Tecnologias G5 G6)
+>>1 - https://player.vimeo.com/video/382607996
